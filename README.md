@@ -34,8 +34,10 @@ Registeration Number :212225220038
 
 ## OUTPUT:
 
-<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/19890ccc-51e3-4634-a7f2-5617f3e9d912" />
-<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/6f37a7fd-6ddc-4b87-bf46-7a0540bcace5" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-30 at 9 33 09 PM" src="https://github.com/user-attachments/assets/b3bbef06-f916-4ccc-9b43-954c28ef8b16" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-30 at 9 33 13 PM" src="https://github.com/user-attachments/assets/4b7c4d68-e941-47ca-be0a-b5513c44b1a7" />
+
+
 
 
 ## RESULT:
