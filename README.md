@@ -1,4 +1,4 @@
-# Ex.No:2 To create a HelloWorld Activity using all lifecycles methods to display messages.
+# Ex.No:1 To create a HelloWorld Activity using all lifecycles methods to display messages.
 
 
 ## AIM:
@@ -27,17 +27,16 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 ```
-/*
 Program to print the text “Hello World”.
-Developed by:
-Registeration Number :
-*/
+Developed by:HEMA D
+Registeration Number :212225220038
 ```
 
-## OUTPUT
+## OUTPUT:
+
+<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/19890ccc-51e3-4634-a7f2-5617f3e9d912" />
+<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/6f37a7fd-6ddc-4b87-bf46-7a0540bcace5" />
 
 
-
-
-## RESULT
+## RESULT:
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
